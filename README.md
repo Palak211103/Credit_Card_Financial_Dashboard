@@ -23,7 +23,7 @@ This project is a real-time financial analytics dashboard designed to analyze cr
 - Credit Card Transaction Report
 
 ##  Tools & Technologies
-- Data Visualization: Tableau / Power BI
+- Data Visualization:  Power BI
 - Data Processing: SQL, Excel
 - Dashboard Type: Real-Time Financial Dashboard
 
